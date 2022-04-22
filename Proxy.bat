@@ -1,0 +1,1 @@
+mitmdump -s proxy.py --ssl-insecure --set block_global=false
